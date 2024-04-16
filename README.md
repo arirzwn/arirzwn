@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arirzwn
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning C++ and JavaScript / ReactJs
+- 🌱 I’m currently learning JavaScript / ReactJs
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me, on email at aririzwan0@gmail.com
 
